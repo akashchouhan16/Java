@@ -14,6 +14,6 @@ A repo for implementation based questions on Java, following the Object Oriented
 
 ### Feel Free to contribute to this repo
 
-- [] : Maintain the folder structure of the repo.
-- [] : Include a description along with your PR to specify what you've added or updated.
-- [] : Push both `.java` and `.class` files with your PR.
+- [ ] : Maintain the folder structure of the repo.
+- [ ] : Include a description along with your PR to specify what you've added or updated.
+- [ ] : Push both `.java` and `.class` files with your PR.

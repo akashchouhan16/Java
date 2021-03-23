@@ -4,7 +4,7 @@
 
 A repo for implementation based questions on Java, following the Object Oriented approach.
 
-## Contents is as Follows :
+## Contents
 
 - [Basic Soln](https://github.com/akashchouhan16/Java/tree/main/Basic)
 - [Advanced Soln](https://github.com/akashchouhan16/Java/tree/main/Advanced)

@@ -1,9 +1,9 @@
 
 interface WaterBottleInterFace {
-    String color = "Navy Blue";
+    String color = "Navy Blue"; //By default they are Final
     int unitsOfWater = 1;
 
-    void fillBottle();
+    void fillBottle(); // By default they are static 
 
     void emptyBottle();
 }

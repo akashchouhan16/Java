@@ -12,7 +12,7 @@ A repo for implementation based questions on Java, following the Object Oriented
 
 ---
 
-### Feel Free to contribute to this repo
+### Contribute if you want to :)
 
 - [ ] : Maintain the folder structure of the repo.
 - [ ] : Include a description along with your PR to specify what you've added or updated.
